@@ -1,0 +1,2 @@
+# Guitar-Scale-Chart
+project is a 24-fret guitar scale chart that tells us the position of different chords and scales on the fretboard and on which string. Here, we need to select the chord and scale from a drop-down list then it will highlight them on a 24-fret guitar scale. It includes various chords (A, Ab, B, Bb, C, D, Db, E, Eb, F, F#, G) and scales (Major, Natural Minor, Harmonic minor, Blues, 5 Chord, etc.) 
